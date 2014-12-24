@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/Java/javaee/NLP/ansj_seg-2.0.7.jar"/>
-	<classpathentry kind="lib" path="D:/Java/javaee/NLP/nlp-lang-0.3.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/nlp-lang-0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
